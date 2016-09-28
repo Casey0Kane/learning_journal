@@ -1,0 +1,2 @@
+# day 7 code 201
+Today we learned about constructor functions and how they can simplify our code. I had my brother help me with this one as it was kind of confusing to me. Overall I think the lab today went pretty well, I did not have too much trouble figuring it out. I did have a few questions on how to build my table today, I couldn't quite figure out how to add a header over the total amount of cookies sold. Every time I tried to enter the code it would just break the rest of my code, i'm sure i'll figure it out soon.
