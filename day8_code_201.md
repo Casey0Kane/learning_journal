@@ -1,0 +1,2 @@
+# Day 8 code 201
+Today we learned about forms and tables being made in javascript and html. It was kind of tricky because putting a form in is harder than I thought. I am sure it's not too hard to figure out i'm just a little blind, maybe I need to scour the internet to find a solution. I should be resourceful because this class asks for it a lot. Other than that I don't really know what to talk about, we went over tuesdays lab with Sam which really helped. That was a little confusing, but honestly everything has been atleast a little confusing at the start.
