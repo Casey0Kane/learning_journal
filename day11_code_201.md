@@ -1,0 +1,2 @@
+# day 11 code 201
+Today in class we learned how to make a series of random images appear and cycle to new images when one is clicked. This isn't too new or much different from stuff we have done before. It was a little tricky because we havnt done something exactly like it so I had to learn how to pull images out of an array and re roll them if they were equal to the images shown before. Overall I still link I have a long way to go in my coding journey as this is just scratching the surface.
