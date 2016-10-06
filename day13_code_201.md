@@ -1,0 +1,2 @@
+# Day 13 code 201
+Today we learned about adding persistent local storage to our bus mall project. We had to check if the local storage exists and then then stringify it and parse it and do a whole bunch of stuff with it. This lab was a little bit tough and took us awhile to figure it out, but once we got it it made a lot more sense. Now I have to think about final project ideas which is going to be tough, I don't really know what I want to do for my final project.
